@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "desc": "Imagine sinking your teeth into a perfectly ripe apple—its skin gives way to a burst of juicy sweetness that dances on your tongue. Each bite is a refreshing explosion of flavor, with a crisp texture that’s both satisfying and invigorating. This apple isn’t just a fruit; it’s a moment of pure, natural indulgence, offering a crisp, succulent experience that leaves you craving more. Ideal for snacking or adding a touch of freshness to any dish, this apple promises both taste and quality in every bite.",
+      "small": "https://img.freepik.com/free-photo/side-close-up-view-apples-rope-appetizing-fruits-basket_140725-73989.jpg?size=626&ext=jpg",
+      "large": "https://img.freepik.com/free-photo/fresh-red-apple-outdoors_23-2150811093.jpg?size=626&ext=jpg&ga=GA1.1.395298834.1724955109&semt=ais_hybrid"
+    },
+    {
+      "id": 2,
+      "name": "Guava",
+      "desc": "Experience the irresistible allure of our premium guava—a true tropical treasure that promises a burst of fresh, vibrant flavor with every bite. Each guava is carefully harvested at peak ripeness, ensuring a juicy, succulent texture that melts in your mouth. Its aromatic, sweet fragrance and unique blend of citrus and floral notes offer a refreshing escape to paradise. Perfect for snacking, smoothies, or adding a touch of exotic flair to any dish, this guava is a must-have for anyone seeking an exceptional fruit experience. Elevate your taste with this tropical delight!",
+      "small": "https://img.freepik.com/free-photo/guava-fruit-still-life_23-2151551074.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid",
+      "large": "https://img.freepik.com/free-photo/guava-fruit-still-life_23-2151551038.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid"
+    },
+    {
+      "id": 3,
+      "name": "Starfruit",
+      "desc": "Discover the dazzling delight of our starfruit, a true gem of tropical fruit. With its striking star-shaped slices and vibrant, golden-yellow hue, each bite offers a unique blend of sweet and tangy flavors that captivate the senses. The starfruit’s crisp, juicy texture makes it perfect for snacking, adding a refreshing twist to salads, or garnishing your favorite dishes. Rich in vitamin C and antioxidants, this exotic fruit not only dazzles visually but also delivers a burst of health benefits. Elevate your culinary creations and indulge in the starfruit’s irresistible charm today!",
+      "small": "https://img.freepik.com/free-photo/slices-ripe-quince-white-table_114579-76124.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid",
+      "large": "https://img.freepik.com/premium-photo/star-fruit-carambola-starfruit-starfruit-white-background-fruit-is-yellow-3d-render_295714-5477.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid"
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "desc": "Unleash the refreshing burst of flavor with our premium oranges, the ultimate citrus delight! Each orange is expertly selected for its vibrant, sun-kissed skin and succulent, juicy segments. Experience a perfect balance of sweet and tangy, delivering a crisp, invigorating taste with every bite. Packed with vitamin C and natural antioxidants, these oranges are not only delicious but also a powerhouse of nutrition. Ideal for a quick snack, fresh-squeezed juice, or adding a zesty touch to your favorite recipes, our oranges promise a burst of sunshine in every bite. Treat yourself to the unbeatable freshness and flavor of our oranges today!",
+      "small": "https://img.freepik.com/free-photo/wooden-board-full-juicy-slices-orange-fruit-stone-table_114579-40388.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid",
+      "large": "https://img.freepik.com/free-photo/wooden-old-box-full-juicy-orange-fruit-stone-table_114579-40299.jpg?ga=GA1.1.395298834.1724955109&semt=ais_hybrid"
+    },
+    {
+      "id": 5,
+      "name": "Mystery Fruit",
+      "desc": "Unveil the extraordinary with our exclusive Mystery Fruit—a tantalizing enigma for your taste buds! This unique, exotic fruit features a stunning, colorful exterior that hints at the delightful surprise inside. With each bite, you'll discover a symphony of flavors that seamlessly blend sweet, tangy, and subtly spicy notes, offering an unforgettable sensory adventure. Its juicy, succulent texture is perfect for snacking, smoothies, or adding an exotic flair to your dishes. Rich in vitamins and antioxidants, the Mystery Fruit is not just a treat for the palate but a boost for your well-being. Dare to indulge in this captivating fruit and make every bite a discovery!",
+      "small": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNhbWVyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "large": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    }
+  ]
+}
